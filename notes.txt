@@ -1,0 +1,19 @@
+(SumyBooks Royal Blue Card)
+1. How I practiced
+I practiced creating a CSS card by designing the SumyBooks profile card 
+with a royal blue background.
+I used HTML for the structure and CSS for styling such as background colors, border radius, padding, 
+margin, box-shadow, and text alignment.
+I applied flexbox to center elements and used responsive units to make the card look balanced on different screen sizes. 
+I also practiced linking external CSS (css/style.css) to the HTML file and styling buttons, images, 
+and typography to achieve a modern Canva-like design.
+2. Challenges I faced
+The main challenge I faced is still needing more explanation on the design structure and layout arrangement. 
+Understanding how to properly align elements, manage spacing, and choose the correct CSS properties for positioning was difficult. 
+I also found it challenging to combine colors, font sizes, and responsiveness to match a professional design. 
+I need more practice and guidance on CSS layout techniques like flexbox, positioning, and responsive design.
+3. What I understand better
+What I now understand better is that the concept of a CSS card is about mastering CSS styling. 
+It focuses on using CSS properties to control layout, colors, spacing, fonts, shadows, and responsiveness.
+Through this task, I learned that CSS style mastery helps in creating clean, attractive, and professional web components 
+like profile cards and product cards for websites such as Sumys Varieties Online Store.
