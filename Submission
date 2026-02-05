@@ -3,60 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sumys Varieties Online Store</title>
-
-  <!-- Link CSS -->
+  <title>Sumys Varieties Card</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<!-- ===== NAVIGATION BAR (FLEXBOX) ===== -->
-<header class="navbar">
-  <div class="logo">Sumys Varieties</div>
-
-  <nav class="nav-links">
-    <a href="#">Home</a>
-    <a href="#">Shop</a>
-    <a href="#">Services</a>
-    <a href="#">Contact</a>
-  </nav>
-</header>
-
-<!-- ===== MAIN CONTAINER ===== -->
-<div class="container">
-
-  <!-- LEFT COLUMN (70%) -->
-  <section class="left">
-    <h2>Welcome to Sumys Varieties</h2>
-    <p>Your one stop online store for tech, fashion and digital services.</p>
-
-    <div class="card">
-      <img src="images/books.png" alt="Books">
-      <h3>SumyBooks</h3>
-      <p>Tech Skills: Full Stack Development, Web Design, AI Tools</p>
-      <button>Shop Now</button>
-    </div>
-  </section>
-
-  <!-- RIGHT COLUMN (30%) -->
-  <aside class="right">
-    <h3>Latest Updates</h3>
-    <ul>
-      <li>New tech arrivals</li>
-      <li>Website design services</li>
-      <li>AI & digital skills</li>
-      <li>Fast delivery available</li>
-    </ul>
-  </aside>
-
-  <div class="clear"></div>
-
+<div class="card">
+  <img src="images/books.png" alt="Books">
+  <h2>Sumys Varieties</h2>
+  <p>Tech Skills: Full Stack Development</p>
 </div>
-
-<!-- FOOTER -->
-<footer class="footer">
-  <p>© 2026 Sumys Varieties Online Store</p>
-</footer>
 
 </body>
 </html>
