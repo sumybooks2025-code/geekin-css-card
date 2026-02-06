@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sumys Varieties Card</title>
+  <title>SumyBooks css card</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <div class="card">
-  <img src="images/books.png" alt="Books">
-  <h2>Sumys Varieties</h2>
-  <p>Tech Skills: Full Stack Development</p>
+  <img src="images/final.png" alt="Books">
+  <h2>SumyBooks</h2>
+  <p>Tech Skills:Applying my skills in tech as I interact with coding,design, 
+    AI and coffee</p>
 </div>
 
 </body>
